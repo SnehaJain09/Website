@@ -3,4 +3,4 @@ logo: /assets/img/pic.png
 description: Data Science Consultant
 show_downloads: true
 google_analytics:
-theme: portfolio
+theme: jekyll-theme-minimal
